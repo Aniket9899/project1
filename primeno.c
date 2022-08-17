@@ -19,6 +19,4 @@ if(z==2){
         printf("not prime");
     }
 
-
-
  }
